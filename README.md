@@ -1,6 +1,8 @@
 # Cards
 
-Simple Elixir blackjack game played in the terminal. Made for deepening knowledge of Elixir in 2 hours.
+Simple Elixir blackjack game played in the terminal. Made just for fun after playing too much balatro 🂺
+
+![Screen Recording 2024-12-29 at 23 40 26](https://github.com/user-attachments/assets/e7afb55a-324a-4dd0-bfc3-7eb23cb8679e)
 
 ## Installation
 
